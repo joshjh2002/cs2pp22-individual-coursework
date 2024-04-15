@@ -1,0 +1,924 @@
+Make,Model,MPG-H,MPG-C
+Acura,CL,26.78,17.0
+Acura,ILX,35.12,24.62
+Acura,ILX Hybrid,38.0,39.0
+Acura,Integra,28.17,21.83
+Acura,Legend,23.19,16.0
+Acura,MDX,26.74,18.85
+Acura,NSX,22.0,17.0
+Acura,RDX,27.92,19.5
+Acura,RL,23.33,16.67
+Acura,RLX,31.0,21.33
+Acura,RSX,30.27,22.47
+Acura,SLX,17.5,13.0
+Acura,TL,27.3,18.83
+Acura,TLX,33.43,21.86
+Acura,TSX,29.88,21.06
+Acura,TSX Sport Wagon,30.0,22.0
+Acura,Vigor,24.0,18.0
+Acura,ZDX,23.0,16.0
+Alfa Romeo,4C,34.0,24.0
+Aston Martin,DB7,16.75,10.0
+Aston Martin,DB9,19.0,13.0
+Aston Martin,DB9 GT,19.0,13.0
+Aston Martin,DBS,17.5,11.5
+Aston Martin,Rapide,19.0,13.0
+Aston Martin,Rapide S,21.0,13.67
+Aston Martin,V12 Vanquish,16.5,10.25
+Aston Martin,V12 Vantage,17.0,11.0
+Aston Martin,V12 Vantage S,18.0,12.0
+Aston Martin,V8 Vantage,20.0,13.5
+Aston Martin,Vanquish,20.5,13.0
+Aston Martin,Virage,18.0,13.0
+Audi,100,21.64,16.27
+Audi,200,21.5,15.67
+Audi,80,23.67,17.17
+Audi,90,22.83,17.0
+Audi,A3,35.02,25.13
+Audi,A4,32.28,23.52
+Audi,A4 allroad,28.0,23.0
+Audi,A5,28.78,20.33
+Audi,A6,46.35,22.3
+Audi,A7,32.3,21.5
+Audi,A8,28.83,18.5
+Audi,Cabriolet,22.0,17.0
+Audi,Coupe,22.0,15.5
+Audi,Q3,28.29,20.0
+Audi,Q5,28.4,21.0
+Audi,Q7,25.0,17.8
+Audi,R8,21.0,12.64
+Audi,RS 4,19.67,12.67
+Audi,RS 5,22.67,16.0
+Audi,RS 6,20.0,14.0
+Audi,RS 7,25.67,15.33
+Audi,S3,30.0,22.33
+Audi,S4,27.0,17.5
+Audi,S5,26.67,17.67
+Audi,S6,27.0,17.8
+Audi,S7,27.0,17.0
+Audi,S8,25.25,15.75
+Audi,SQ5,24.0,17.0
+Audi,TT,30.33,22.67
+Audi,TT RS,25.0,18.0
+Audi,TTS,29.0,22.5
+Audi,V8,18.0,13.0
+Audi,allroad,27.62,20.62
+Audi,allroad quattro,20.12,14.38
+BMW,1 Series,27.6,18.73
+BMW,1 Series M,26.0,19.0
+BMW,2 Series,32.71,21.82
+BMW,3 Series,35.84,24.81
+BMW,3 Series Gran Turismo,31.67,21.17
+BMW,4 Series,32.12,21.4
+BMW,4 Series Gran Coupe,32.42,21.58
+BMW,5 Series,31.56,21.25
+BMW,5 Series Gran Turismo,25.8,17.4
+BMW,6 Series,27.08,18.17
+BMW,6 Series Gran Coupe,26.92,18.0
+BMW,7 Series,26.38,17.81
+BMW,8 Series,19.29,12.71
+BMW,ALPINA B6 Gran Coupe,24.0,15.33
+BMW,ALPINA B7,24.44,16.0
+BMW,ActiveHybrid 5,30.0,23.0
+BMW,ActiveHybrid 7,30.0,22.0
+BMW,ActiveHybrid X6,19.0,17.0
+BMW,Alpina,19.0,13.0
+BMW,M,23.0,15.0
+BMW,M2,26.0,18.0
+BMW,M3,26.0,17.0
+BMW,M4,26.0,17.0
+BMW,M4 GTS,23.0,16.0
+BMW,M5,20.0,14.0
+BMW,M6,20.33,14.17
+BMW,M6 Gran Coupe,20.0,14.0
+BMW,X1,31.33,21.67
+BMW,X3,29.08,22.0
+BMW,X4,27.0,19.29
+BMW,X5,25.58,18.67
+BMW,X5 M,19.0,14.0
+BMW,X6,24.0,17.11
+BMW,X6 M,19.0,14.0
+BMW,Z3,25.22,18.11
+BMW,Z4,27.56,18.89
+BMW,Z4 M,22.5,15.0
+BMW,Z8,19.0,12.0
+BMW,i3,109.75,135.0
+Bentley,Arnage,14.6,9.8
+Bentley,Azure,15.0,9.33
+Bentley,Azure T,15.0,9.0
+Bentley,Brooklands,14.5,9.5
+Bentley,Continental,15.0,10.0
+Bentley,Continental Flying Spur,18.67,11.0
+Bentley,Continental Flying Spur Speed,17.0,10.0
+Bentley,Continental GT,22.58,13.37
+Bentley,Continental GT Speed,18.5,11.5
+Bentley,Continental GT Speed Convertible,20.0,12.0
+Bentley,Continental GT3-R,23.0,13.0
+Bentley,Continental GTC,21.67,12.67
+Bentley,Continental GTC Speed,17.0,10.0
+Bentley,Continental Supersports,19.0,12.0
+Bentley,Continental Supersports Convertible,19.0,12.0
+Bentley,Flying Spur,21.6,12.8
+Bentley,Mulsanne,18.0,11.0
+Bentley,Supersports Convertible ISR,19.0,12.0
+Bugatti,Veyron 16.4,14.0,8.0
+Buick,Cascada,27.0,20.0
+Buick,Century,26.67,18.0
+Buick,Electra,25.0,16.0
+Buick,Enclave,22.4,15.53
+Buick,Encore,31.68,24.57
+Buick,Envision,27.25,20.75
+Buick,Estate Wagon,22.0,15.0
+Buick,LaCrosse,29.05,19.2
+Buick,LeSabre,27.0,17.67
+Buick,Lucerne,25.62,16.71
+Buick,Park Avenue,26.33,17.0
+Buick,Rainier,19.83,14.0
+Buick,Reatta,25.0,16.0
+Buick,Regal,28.65,19.94
+Buick,Rendezvous,22.67,16.67
+Buick,Riviera,25.0,16.25
+Buick,Roadmaster,23.43,15.0
+Buick,Skylark,28.29,18.71
+Buick,Terraza,22.27,15.64
+Buick,Verano,31.5,21.0
+Cadillac,ATS,29.51,20.46
+Cadillac,ATS Coupe,29.4,20.34
+Cadillac,ATS-V,23.0,16.5
+Cadillac,Allante,20.0,13.67
+Cadillac,Brougham,22.67,15.0
+Cadillac,CT6,27.44,18.89
+Cadillac,CTS,28.26,19.26
+Cadillac,CTS Coupe,27.0,18.0
+Cadillac,CTS Wagon,26.09,18.0
+Cadillac,CTS-V,20.33,14.0
+Cadillac,CTS-V Coupe,19.0,14.0
+Cadillac,CTS-V Wagon,19.0,14.0
+Cadillac,Catera,22.75,16.0
+Cadillac,DTS,22.86,15.0
+Cadillac,DeVille,23.7,15.7
+Cadillac,Eldorado,25.0,15.43
+Cadillac,Escalade,21.27,14.9
+Cadillac,Escalade ESV,21.03,14.77
+Cadillac,Escalade EXT,18.0,13.0
+Cadillac,Escalade Hybrid,23.0,20.0
+Cadillac,Fleetwood,23.33,15.0
+Cadillac,SRX,23.57,16.57
+Cadillac,STS,26.0,17.0
+Cadillac,STS-V,19.0,12.67
+Cadillac,Seville,24.8,16.0
+Cadillac,Sixty Special,23.0,15.0
+Cadillac,XLR,24.0,15.0
+Cadillac,XLR-V,21.25,13.75
+Cadillac,XT5,26.5,18.5
+Cadillac,XTS,26.3,17.22
+Chevrolet,Astro,17.67,13.0
+Chevrolet,Astro Cargo,19.0,14.33
+Chevrolet,Avalanche,21.0,15.0
+Chevrolet,Aveo,34.67,27.0
+Chevrolet,Beretta,29.67,19.83
+Chevrolet,Black Diamond Avalanche,21.0,15.0
+Chevrolet,Blazer,18.79,13.79
+Chevrolet,C/K 1500 Series,19.11,14.32
+Chevrolet,C/K 2500 Series,17.5,12.5
+Chevrolet,Camaro,26.21,17.36
+Chevrolet,Caprice,23.67,15.5
+Chevrolet,Captiva Sport,28.0,20.0
+Chevrolet,Cavalier,32.1,22.7
+Chevrolet,Celebrity,28.0,18.5
+Chevrolet,Chevy Van,17.6,13.4
+Chevrolet,City Express,26.0,24.0
+Chevrolet,Classic,31.0,22.0
+Chevrolet,Cobalt,34.18,24.0
+Chevrolet,Colorado,24.78,18.02
+Chevrolet,Corsica,28.5,21.5
+Chevrolet,Corvette,25.7,16.1
+Chevrolet,Corvette Stingray,29.0,17.0
+Chevrolet,Cruze,39.32,27.68
+Chevrolet,Cruze Limited,37.78,25.56
+Chevrolet,Equinox,30.57,21.13
+Chevrolet,Express,16.65,11.24
+Chevrolet,Express Cargo,18.0,13.5
+Chevrolet,HHR,31.07,21.79
+Chevrolet,Impala,28.06,19.0
+Chevrolet,Impala Limited,30.0,18.0
+Chevrolet,Lumina,26.5,17.5
+Chevrolet,Lumina Minivan,22.0,17.0
+Chevrolet,Malibu,35.94,27.41
+Chevrolet,Malibu Classic,29.33,19.33
+Chevrolet,Malibu Hybrid,33.33,25.33
+Chevrolet,Malibu Limited,34.0,24.0
+Chevrolet,Malibu Maxx,27.09,18.64
+Chevrolet,Metro,38.29,31.43
+Chevrolet,Monte Carlo,27.36,18.0
+Chevrolet,Prizm,36.0,27.0
+Chevrolet,S-10,21.37,16.0
+Chevrolet,S-10 Blazer,20.67,15.33
+Chevrolet,SS,20.67,14.0
+Chevrolet,SSR,18.0,14.0
+Chevrolet,Silverado 1500,22.63,16.88
+Chevrolet,Silverado 1500 Classic,18.61,13.9
+Chevrolet,Silverado 1500 Hybrid,23.0,20.0
+Chevrolet,Sonic,35.33,25.95
+Chevrolet,Spark,39.33,30.17
+Chevrolet,Spark EV,109.0,128.0
+Chevrolet,Sportvan,16.0,12.67
+Chevrolet,Suburban,22.5,15.5
+Chevrolet,Tahoe,22.5,16.0
+Chevrolet,Tahoe Hybrid,23.0,20.0
+Chevrolet,Tahoe Limited/Z71,15.5,11.5
+Chevrolet,Tracker,21.33,18.24
+Chevrolet,TrailBlazer,18.73,13.4
+Chevrolet,TrailBlazer EXT,18.33,13.33
+Chevrolet,Traverse,22.46,15.46
+Chevrolet,Trax,32.2,24.85
+Chevrolet,Uplander,22.88,15.94
+Chevrolet,Venture,23.64,16.82
+Chrysler,200,33.74,21.48
+Chrysler,300,28.83,18.5
+Chrysler,300M,24.67,16.0
+Chrysler,Aspen,18.43,14.14
+Chrysler,Cirrus,24.67,16.67
+Chrysler,Concorde,25.33,17.33
+Chrysler,Crossfire,22.83,15.0
+Chrysler,Grand Voyager,23.0,16.0
+Chrysler,Imperial,23.33,16.0
+Chrysler,LHS,24.0,16.0
+Chrysler,Le Baron,25.5,18.33
+Chrysler,New Yorker,24.0,16.0
+Chrysler,PT Cruiser,24.75,19.5
+Chrysler,Pacifica,23.94,15.59
+Chrysler,Prowler,21.0,15.5
+Chrysler,Sebring,28.5,19.4
+Chrysler,TC,22.33,15.67
+Chrysler,Town and Country,25.0,17.0
+Chrysler,Voyager,23.14,17.0
+Dodge,Avenger,29.7,19.9
+Dodge,Caliber,29.62,23.25
+Dodge,Caravan,24.0,17.0
+Dodge,Challenger,24.12,15.24
+Dodge,Charger,26.61,16.57
+Dodge,Colt,33.29,26.0
+Dodge,Dakota,19.08,14.7
+Dodge,Dart,36.05,24.14
+Dodge,Daytona,26.33,18.44
+Dodge,Durango,24.71,17.32
+Dodge,Dynasty,24.67,18.17
+Dodge,Grand Caravan,25.0,17.0
+Dodge,Intrepid,25.38,17.25
+Dodge,Journey,24.79,17.34
+Dodge,Magnum,22.31,15.31
+Dodge,Monaco,24.0,15.67
+Dodge,Neon,30.54,23.15
+Dodge,Nitro,21.23,15.68
+Dodge,Omni,31.0,22.0
+Dodge,RAM 150,15.58,11.83
+Dodge,RAM 250,14.8,11.53
+Dodge,Ram 50 Pickup,21.0,16.6
+Dodge,Ram Cargo,15.13,12.73
+Dodge,Ram Pickup 1500,18.26,13.37
+Dodge,Ram Van,16.5,12.75
+Dodge,Ram Wagon,14.8,12.0
+Dodge,Ramcharger,14.17,10.83
+Dodge,SRT Viper,19.0,12.0
+Dodge,Shadow,28.0,21.18
+Dodge,Spirit,26.5,20.25
+Dodge,Stealth,22.4,16.7
+Dodge,Stratus,26.12,19.06
+Dodge,Viper,20.27,12.0
+FIAT,124 Spider,35.0,26.0
+FIAT,500,36.57,29.25
+FIAT,500L,31.85,23.85
+FIAT,500X,30.53,21.93
+FIAT,500e,104.67,121.33
+Ferrari,360,15.0,10.0
+Ferrari,456M,14.5,9.0
+Ferrari,458 Italia,17.0,13.0
+Ferrari,550,12.0,8.0
+Ferrari,575M,15.5,9.0
+Ferrari,599,15.0,11.0
+Ferrari,612 Scaglietti,16.0,9.0
+Ferrari,California,19.0,13.0
+Ferrari,California T,23.0,16.0
+Ferrari,Enzo,12.0,7.0
+Ferrari,F12 Berlinetta,16.0,11.0
+Ferrari,F430,16.0,11.0
+Ferrari,FF,16.0,11.0
+Ferrari,Superamerica,15.5,9.0
+Ford,Aerostar,20.44,14.67
+Ford,Aspire,38.0,29.67
+Ford,Bronco,16.22,12.11
+Ford,Bronco II,20.0,15.5
+Ford,C-Max Hybrid,37.0,42.0
+Ford,Contour,30.25,20.25
+Ford,Contour SVT,26.33,17.33
+Ford,Crown Victoria,24.0,16.0
+Ford,E-150,16.55,12.09
+Ford,E-250,15.4,12.0
+Ford,E-Series Van,16.44,12.67
+Ford,E-Series Wagon,15.33,11.67
+Ford,Edge,27.95,19.55
+Ford,Escape,30.2,22.33
+Ford,Escape Hybrid,29.0,31.83
+Ford,Escort,30.89,22.78
+Ford,Expedition,20.42,15.0
+Ford,Explorer,23.39,16.7
+Ford,Explorer Sport,18.78,14.28
+Ford,Explorer Sport Trac,19.48,13.52
+Ford,F-150,23.32,16.94
+Ford,F-150 Heritage,18.2,13.9
+Ford,F-150 SVT Lightning,15.0,11.67
+Ford,F-250,16.71,12.46
+Ford,Festiva,37.67,30.0
+Ford,Fiesta,35.1,27.14
+Ford,Five Hundred,24.44,17.94
+Ford,Flex,22.89,16.33
+Ford,Focus,47.55,39.25
+Ford,Focus RS,25.0,19.0
+Ford,Focus ST,31.33,22.33
+Ford,Freestar,21.43,15.57
+Ford,Freestyle,23.5,17.5
+Ford,Fusion,31.71,21.41
+Ford,Fusion Hybrid,41.0,43.6
+Ford,GT,19.0,12.0
+Ford,LTD Crown Victoria,22.0,15.0
+Ford,Mustang,27.42,17.83
+Ford,Mustang SVT Cobra,23.33,15.67
+Ford,Probe,27.0,20.5
+Ford,Ranger,22.76,17.92
+Ford,Shelby GT350,21.0,14.33
+Ford,Shelby GT500,23.8,15.0
+Ford,Taurus,26.11,17.67
+Ford,Taurus X,23.0,15.75
+Ford,Tempo,29.0,20.5
+Ford,Thunderbird,21.75,15.75
+Ford,Transit Connect,27.96,20.12
+Ford,Transit Wagon,19.0,14.0
+Ford,Windstar,21.67,16.0
+Ford,Windstar Cargo,21.67,16.0
+GMC,Acadia,23.62,17.06
+GMC,Acadia Limited,22.0,15.0
+GMC,Canyon,24.9,18.08
+GMC,Envoy,19.94,13.94
+GMC,Envoy XL,18.12,13.06
+GMC,Envoy XUV,17.5,12.5
+GMC,Jimmy,18.84,14.23
+GMC,Rally Wagon,16.0,12.67
+GMC,S-15,22.0,18.0
+GMC,S-15 Jimmy,20.0,14.67
+GMC,Safari,17.67,13.0
+GMC,Safari Cargo,19.0,14.33
+GMC,Savana,16.65,11.24
+GMC,Savana Cargo,16.86,11.36
+GMC,Sierra 1500,22.72,16.84
+GMC,Sierra 1500 Classic,18.33,13.92
+GMC,Sierra 1500 Hybrid,23.0,20.0
+GMC,Sierra 1500HD,17.0,13.0
+GMC,Sierra C3,13.0,10.0
+GMC,Sierra Classic 1500,16.5,12.5
+GMC,Sonoma,21.61,16.22
+GMC,Suburban,16.67,11.83
+GMC,Syclone,16.0,13.0
+GMC,Terrain,30.34,20.93
+GMC,Typhoon,17.0,13.5
+GMC,Vandura,18.2,14.0
+GMC,Yukon,22.06,15.61
+GMC,Yukon Denali,15.0,11.0
+GMC,Yukon Hybrid,23.0,20.0
+GMC,Yukon XL,21.94,15.17
+Genesis,G80,25.33,16.33
+HUMMER,H3,17.4,13.5
+HUMMER,H3T,17.14,13.57
+Honda,Accord,33.95,24.05
+Honda,Accord Crosstour,26.4,17.8
+Honda,Accord Hybrid,45.67,49.67
+Honda,Accord Plug-In Hybrid,46.0,47.0
+Honda,CR-V,32.0,24.88
+Honda,CR-Z,38.5,33.5
+Honda,Civic,39.38,30.12
+Honda,Civic CRX,35.5,29.0
+Honda,Civic del Sol,31.78,25.89
+Honda,Crosstour,29.88,20.5
+Honda,Element,24.43,19.43
+Honda,Fit,37.83,31.17
+Honda,Fit EV,105.0,132.0
+Honda,HR-V,33.12,26.88
+Honda,Insight,44.0,41.0
+Honda,Odyssey,28.0,19.0
+Honda,Passport,19.2,14.95
+Honda,Pilot,25.84,18.3
+Honda,Prelude,24.57,19.86
+Honda,Ridgeline,23.41,16.86
+Honda,S2000,24.86,18.0
+Hyundai,Accent,37.5,26.67
+Hyundai,Azera,28.33,19.5
+Hyundai,Elantra,36.1,26.4
+Hyundai,Elantra Coupe,36.5,26.5
+Hyundai,Elantra GT,32.83,24.0
+Hyundai,Elantra Touring,30.5,23.0
+Hyundai,Entourage,23.0,16.0
+Hyundai,Equus,23.0,15.0
+Hyundai,Excel,31.8,24.8
+Hyundai,Genesis,25.5,16.38
+Hyundai,Genesis Coupe,24.88,16.47
+Hyundai,Santa Fe,23.75,17.62
+Hyundai,Santa Fe Sport,26.0,19.36
+Hyundai,Scoupe,30.5,23.17
+Hyundai,Sonata,34.79,24.42
+Hyundai,Sonata Hybrid,42.5,38.0
+Hyundai,Tiburon,25.0,17.95
+Hyundai,Tucson,28.38,23.0
+Hyundai,Veloster,33.94,25.72
+Hyundai,Veracruz,21.83,16.5
+Hyundai,XG300,25.0,17.0
+Hyundai,XG350,24.0,15.33
+Infiniti,EX,24.17,17.0
+Infiniti,EX35,23.5,16.5
+Infiniti,FX,21.55,15.55
+Infiniti,FX35,21.67,15.67
+Infiniti,FX45,17.0,13.0
+Infiniti,FX50,20.0,14.0
+Infiniti,G Convertible,24.62,16.62
+Infiniti,G Coupe,25.94,18.12
+Infiniti,G Sedan,26.48,18.61
+Infiniti,G20,28.0,20.62
+Infiniti,G35,23.62,16.88
+Infiniti,G37,25.15,17.54
+Infiniti,G37 Convertible,24.67,16.67
+Infiniti,G37 Coupe,26.2,18.4
+Infiniti,G37 Sedan,26.0,18.33
+Infiniti,I30,24.5,17.5
+Infiniti,I35,24.0,17.0
+Infiniti,J30,22.0,16.0
+Infiniti,JX,23.5,18.0
+Infiniti,M,25.8,18.8
+Infiniti,M30,23.0,17.0
+Infiniti,M35,23.17,16.33
+Infiniti,M37,25.0,17.5
+Infiniti,M45,20.5,15.0
+Infiniti,M56,24.0,16.0
+Infiniti,Q40,26.0,18.5
+Infiniti,Q45,22.0,15.75
+Infiniti,Q50,29.39,22.08
+Infiniti,Q60 Convertible,25.33,17.33
+Infiniti,Q60 Coupe,26.78,19.06
+Infiniti,Q70,25.52,18.43
+Infiniti,QX,20.0,14.0
+Infiniti,QX4,17.83,13.83
+Infiniti,QX50,24.25,17.0
+Infiniti,QX56,18.33,12.67
+Infiniti,QX60,27.1,22.1
+Infiniti,QX70,23.0,16.5
+Infiniti,QX80,19.71,13.71
+Kia,Amanti,24.0,17.0
+Kia,Borrego,20.89,15.67
+Kia,Cadenza,28.0,19.38
+Kia,Forte,33.11,24.21
+Kia,K900,24.2,15.8
+Kia,Optima,34.12,24.06
+Kia,Optima Hybrid,41.67,36.67
+Kia,Rio,36.76,27.0
+Kia,Rondo,26.07,18.8
+Kia,Sedona,23.8,17.8
+Kia,Sephia,27.67,20.5
+Kia,Sorento,25.45,18.68
+Kia,Soul,30.5,23.67
+Kia,Soul EV,92.0,120.0
+Kia,Spectra,30.96,23.35
+Kia,Sportage,26.33,20.28
+Lamborghini,Aventador,17.25,10.58
+Lamborghini,Diablo,12.0,9.0
+Lamborghini,Gallardo,20.0,12.84
+Lamborghini,Huracan,20.5,14.0
+Lamborghini,Murcielago,13.56,8.56
+Lamborghini,Reventon,14.0,9.0
+Land Rover,Defender,14.5,12.0
+Land Rover,Discovery,14.0,11.0
+Land Rover,Discovery Series II,16.0,12.0
+Land Rover,Discovery Sport,25.67,20.0
+Land Rover,Freelander,19.0,15.56
+Land Rover,LR2,24.0,17.0
+Land Rover,LR3,17.0,12.0
+Land Rover,LR4,19.0,14.3
+Land Rover,Range Rover,20.86,14.96
+Land Rover,Range Rover Evoque,29.6,20.92
+Land Rover,Range Rover Sport,21.53,15.95
+Lexus,CT 200h,40.0,43.0
+Lexus,ES 250,23.5,17.0
+Lexus,ES 300,26.0,17.67
+Lexus,ES 300h,39.0,40.0
+Lexus,ES 330,27.0,18.0
+Lexus,ES 350,30.75,21.0
+Lexus,GS 200t,31.25,21.5
+Lexus,GS 300,24.5,17.5
+Lexus,GS 350,27.27,19.18
+Lexus,GS 400,21.67,15.67
+Lexus,GS 430,22.67,16.0
+Lexus,GS 450h,34.0,29.0
+Lexus,GS 460,24.0,17.0
+Lexus,GS F,24.0,16.0
+Lexus,GX 460,19.33,15.0
+Lexus,GX 470,18.0,14.0
+Lexus,HS 250h,34.0,35.0
+Lexus,IS 200t,32.5,22.0
+Lexus,IS 250,28.5,20.62
+Lexus,IS 250 C,30.0,21.0
+Lexus,IS 300,24.2,17.2
+Lexus,IS 350,27.0,19.0
+Lexus,IS 350 C,27.0,19.0
+Lexus,IS F,23.0,16.0
+Lexus,LFA,16.0,11.0
+Lexus,LS 400,23.0,16.33
+Lexus,LS 430,23.0,16.0
+Lexus,LS 460,23.5,16.0
+Lexus,LS 600h L,23.0,19.0
+Lexus,LX 450,14.0,12.0
+Lexus,LX 470,15.33,12.0
+Lexus,LX 570,17.67,12.67
+Lexus,NX 200t,27.83,21.83
+Lexus,NX 300h,30.4,33.8
+Lexus,RC 200t,32.0,22.0
+Lexus,RC 300,26.0,19.0
+Lexus,RC 350,27.0,19.0
+Lexus,RC F,25.0,16.0
+Lexus,RX 300,21.0,16.5
+Lexus,RX 330,22.67,16.5
+Lexus,RX 350,26.09,18.91
+Lexus,RX 400h,24.67,27.17
+Lexus,RX 450h,28.29,30.71
+Lexus,SC 300,22.0,17.0
+Lexus,SC 400,23.0,16.33
+Lexus,SC 430,23.0,16.0
+Lincoln,Aviator,16.7,11.8
+Lincoln,Blackwood,15.0,11.0
+Lincoln,Continental,24.54,16.23
+Lincoln,LS,23.36,16.36
+Lincoln,MKC,27.1,19.7
+Lincoln,MKS,25.78,17.56
+Lincoln,MKT,23.0,15.83
+Lincoln,MKX,24.94,16.83
+Lincoln,MKZ,33.33,27.83
+Lincoln,MKZ Hybrid,36.0,41.0
+Lincoln,Mark LT,16.4,12.3
+Lincoln,Mark VII,22.0,15.0
+Lincoln,Mark VIII,24.0,15.6
+Lincoln,Navigator,20.15,15.15
+Lincoln,Town Car,24.0,16.0
+Lincoln,Zephyr,26.0,17.0
+Lotus,Elise,26.5,20.5
+Lotus,Esprit,21.0,14.0
+Lotus,Evora,26.1,17.6
+Lotus,Evora 400,39.0,21.0
+Lotus,Exige,26.0,20.0
+Maserati,Coupe,16.17,10.67
+Maserati,Ghibli,24.25,16.0
+Maserati,GranSport,17.5,11.0
+Maserati,GranTurismo,21.0,13.0
+Maserati,GranTurismo Convertible,20.0,13.0
+Maserati,Levante,19.5,14.0
+Maserati,Quattroporte,22.8,15.4
+Maserati,Spyder,15.5,10.17
+Maybach,57,16.0,10.0
+Maybach,62,16.0,10.0
+Maybach,Landaulet,16.0,10.0
+Mazda,2,34.5,28.5
+Mazda,3,38.47,28.06
+Mazda,323,32.75,24.75
+Mazda,5,28.0,21.55
+Mazda,6,36.73,25.6
+Mazda,626,26.09,20.09
+Mazda,929,22.0,17.0
+Mazda,B-Series,21.62,16.54
+Mazda,B-Series Pickup,21.25,16.52
+Mazda,B-Series Truck,21.09,16.73
+Mazda,CX-3,33.25,28.0
+Mazda,CX-5,31.63,24.96
+Mazda,CX-7,24.85,18.5
+Mazda,CX-9,24.63,18.32
+Mazda,MPV,23.0,16.0
+Mazda,MX-3,30.4,22.8
+Mazda,MX-5 Miata,29.5,22.36
+Mazda,MX-6,27.5,20.5
+Mazda,Mazdaspeed 3,25.0,18.0
+Mazda,Mazdaspeed 6,23.0,17.0
+Mazda,Mazdaspeed MX-5 Miata,24.0,18.0
+Mazda,Mazdaspeed Protege,27.0,21.0
+Mazda,Millenia,24.56,17.0
+Mazda,Navajo,19.83,15.0
+Mazda,Protege,28.55,22.55
+Mazda,Protege5,28.0,22.0
+Mazda,Tribute,26.23,19.65
+Mazda,Tribute Hybrid,28.75,31.5
+Mazda,Truck,20.73,16.73
+McLaren,570S,23.0,16.0
+McLaren,650S Coupe,22.0,16.0
+McLaren,650S Spider,22.0,16.0
+McLaren,MP4-12C,22.0,15.0
+Mercedes-Benz,190-Class,25.5,17.5
+Mercedes-Benz,300-Class,21.41,16.34
+Mercedes-Benz,350-Class,23.0,19.0
+Mercedes-Benz,400-Class,18.75,14.0
+Mercedes-Benz,420-Class,17.0,14.0
+Mercedes-Benz,500-Class,16.75,12.75
+Mercedes-Benz,560-Class,16.0,12.0
+Mercedes-Benz,600-Class,15.0,11.0
+Mercedes-Benz,AMG GT,22.0,16.0
+Mercedes-Benz,B-Class Electric Drive,82.0,85.0
+Mercedes-Benz,C-Class,29.41,21.73
+Mercedes-Benz,C36 AMG,20.67,16.0
+Mercedes-Benz,C43 AMG,21.0,16.0
+Mercedes-Benz,CL-Class,20.5,13.5
+Mercedes-Benz,CLA-Class,33.67,24.22
+Mercedes-Benz,CLK-Class,22.33,15.2
+Mercedes-Benz,CLS-Class,25.54,17.69
+Mercedes-Benz,E-Class,28.43,19.97
+Mercedes-Benz,E55 AMG,21.0,15.0
+Mercedes-Benz,G-Class,14.0,12.0
+Mercedes-Benz,GL-Class,20.33,15.25
+Mercedes-Benz,GLA-Class,31.56,23.56
+Mercedes-Benz,GLC-Class,28.0,21.5
+Mercedes-Benz,GLE-Class,21.18,16.45
+Mercedes-Benz,GLE-Class Coupe,20.5,15.5
+Mercedes-Benz,GLK-Class,27.44,20.56
+Mercedes-Benz,GLS-Class,19.0,14.67
+Mercedes-Benz,M-Class,22.33,16.87
+Mercedes-Benz,ML55 AMG,16.0,12.0
+Mercedes-Benz,Maybach,20.5,13.0
+Mercedes-Benz,Metris,23.5,20.5
+Mercedes-Benz,R-Class,21.67,16.5
+Mercedes-Benz,S-Class,23.0,14.75
+Mercedes-Benz,SL-Class,24.42,16.75
+Mercedes-Benz,SLC-Class,30.5,22.5
+Mercedes-Benz,SLK-Class,29.67,21.0
+Mercedes-Benz,SLR McLaren,16.0,11.67
+Mercedes-Benz,SLS AMG,20.0,14.0
+Mercedes-Benz,SLS AMG GT,18.6,13.0
+Mercedes-Benz,SLS AMG GT Final Edition,19.0,13.0
+Mitsubishi,3000GT,22.33,16.67
+Mitsubishi,Diamante,23.0,15.67
+Mitsubishi,Eclipse,26.85,18.92
+Mitsubishi,Eclipse Spyder,25.57,18.14
+Mitsubishi,Endeavor,20.38,15.0
+Mitsubishi,Expo,24.17,18.58
+Mitsubishi,Galant,30.0,21.0
+Mitsubishi,Lancer,31.33,23.44
+Mitsubishi,Lancer Evolution,22.57,17.0
+Mitsubishi,Lancer Sportback,30.5,23.0
+Mitsubishi,Mighty Max Pickup,22.4,17.4
+Mitsubishi,Mirage,42.79,35.57
+Mitsubishi,Mirage G4,41.33,34.33
+Mitsubishi,Montero,17.33,13.0
+Mitsubishi,Montero Sport,19.0,14.9
+Mitsubishi,Outlander,29.56,23.83
+Mitsubishi,Outlander Sport,28.43,23.07
+Mitsubishi,Precis,30.0,25.0
+Mitsubishi,Raider,19.47,14.73
+Mitsubishi,Sigma,20.0,16.0
+Mitsubishi,Vanwagon,19.5,17.0
+Nissan,200SX,32.0,23.0
+Nissan,240SX,25.62,19.38
+Nissan,300ZX,22.0,16.5
+Nissan,350Z,24.03,17.29
+Nissan,370Z,25.59,18.24
+Nissan,Altima,35.75,24.88
+Nissan,Altima Hybrid,33.0,34.33
+Nissan,Armada,18.5,12.8
+Nissan,Axxess,22.0,17.5
+Nissan,Cube,30.6,26.2
+Nissan,Frontier,21.72,15.96
+Nissan,GT-R,22.5,16.0
+Nissan,Juke,31.23,26.6
+Nissan,Leaf,101.0,125.6
+Nissan,Maxima,29.33,21.08
+Nissan,Murano,28.36,21.86
+Nissan,Murano CrossCabriolet,22.0,17.0
+Nissan,NV200,26.0,24.0
+Nissan,NX,31.33,22.17
+Nissan,Pathfinder,26.5,19.5
+Nissan,Pulsar,31.0,23.0
+Nissan,Quest,26.33,19.67
+Nissan,Rogue,32.5,25.5
+Nissan,Rogue Select,27.5,22.5
+Nissan,Sentra,37.26,28.74
+Nissan,Stanza,25.75,18.75
+Nissan,Titan,18.31,13.09
+Nissan,Truck,20.73,16.91
+Nissan,Van,19.5,15.5
+Nissan,Versa,38.12,29.31
+Nissan,Versa Note,39.25,30.5
+Nissan,Xterra,20.57,15.48
+Oldsmobile,Achieva,29.0,19.2
+Oldsmobile,Alero,28.67,19.5
+Oldsmobile,Aurora,24.2,15.8
+Oldsmobile,Bravada,19.43,13.86
+Oldsmobile,Ciera,27.0,18.67
+Oldsmobile,Custom Cruiser,22.67,15.0
+Oldsmobile,Cutlass,26.4,17.2
+Oldsmobile,Cutlass Calais,29.67,19.83
+Oldsmobile,Cutlass Ciera,26.45,18.36
+Oldsmobile,Cutlass Supreme,26.0,17.57
+Oldsmobile,Eighty-Eight,26.83,17.0
+Oldsmobile,Eighty-Eight Royale,26.0,17.0
+Oldsmobile,Intrigue,26.33,17.33
+Oldsmobile,LSS,25.67,16.5
+Oldsmobile,Ninety-Eight,25.6,16.6
+Oldsmobile,Regency,26.5,17.0
+Oldsmobile,Silhouette,23.2,16.6
+Oldsmobile,Toronado,24.0,16.0
+Plymouth,Acclaim,26.67,20.0
+Plymouth,Breeze,33.33,23.0
+Plymouth,Colt,28.87,22.6
+Plymouth,Grand Voyager,22.75,16.38
+Plymouth,Horizon,31.0,22.0
+Plymouth,Laser,26.0,19.25
+Plymouth,Neon,33.71,24.0
+Plymouth,Prowler,21.0,15.0
+Plymouth,Sundance,28.83,22.0
+Plymouth,Voyager,23.29,17.0
+Pontiac,6000,27.71,17.71
+Pontiac,Aztek,23.0,16.5
+Pontiac,Bonneville,25.67,16.89
+Pontiac,Firebird,25.07,16.2
+Pontiac,G3,34.0,27.0
+Pontiac,G5,33.17,23.33
+Pontiac,G6,27.41,18.59
+Pontiac,G8,23.6,15.4
+Pontiac,GTO,19.33,14.33
+Pontiac,Grand Am,28.29,19.29
+Pontiac,Grand Prix,26.38,17.0
+Pontiac,Le Mans,35.78,25.67
+Pontiac,Montana,23.06,16.35
+Pontiac,Montana SV6,22.0,15.5
+Pontiac,Solstice,26.45,18.82
+Pontiac,Sunbird,30.5,20.75
+Pontiac,Sunfire,32.0,22.8
+Pontiac,Torrent,23.9,16.7
+Pontiac,Trans Sport,23.2,16.2
+Pontiac,Vibe,29.0,22.44
+Porsche,718 Cayman,27.0,20.5
+Porsche,911,26.16,18.43
+Porsche,928,17.0,11.0
+Porsche,944,24.0,15.0
+Porsche,968,24.0,15.0
+Porsche,Boxster,28.25,19.75
+Porsche,Carrera GT,15.0,9.0
+Porsche,Cayenne,23.5,16.43
+Porsche,Cayman,28.25,19.75
+Porsche,Cayman S,26.0,18.0
+Porsche,Macan,23.25,17.38
+Porsche,Panamera,25.68,16.45
+Rolls-Royce,Corniche,15.0,10.0
+Rolls-Royce,Dawn,19.0,12.0
+Rolls-Royce,Ghost,20.67,13.0
+Rolls-Royce,Ghost Series II,21.0,13.0
+Rolls-Royce,Park Ward,15.0,11.0
+Rolls-Royce,Phantom,19.0,11.0
+Rolls-Royce,Phantom Coupe,19.0,11.0
+Rolls-Royce,Phantom Drophead Coupe,19.0,11.0
+Rolls-Royce,Silver Seraph,15.0,11.0
+Rolls-Royce,Wraith,21.0,13.0
+Saab,9-2X,25.5,18.5
+Saab,9-3,27.59,18.44
+Saab,9-3 Griffin,30.28,19.11
+Saab,9-4X,23.6,17.0
+Saab,9-5,27.64,17.27
+Saab,9-7X,18.75,13.25
+Saab,900,24.81,17.67
+Saab,9000,25.2,17.6
+Scion,FR-S,32.0,23.5
+Scion,iA,41.5,32.0
+Scion,iM,36.5,27.5
+Scion,iQ,37.0,36.0
+Scion,tC,31.0,23.0
+Scion,xA,34.33,27.0
+Scion,xB,28.0,22.0
+Scion,xD,33.0,27.0
+Spyker,C8,18.0,13.0
+Subaru,B9 Tribeca,21.0,16.0
+Subaru,BRZ,30.67,22.42
+Subaru,Baja,23.0,17.4
+Subaru,Crosstrek,32.4,25.6
+Subaru,Forester,30.08,23.58
+Subaru,Impreza,36.29,27.24
+Subaru,Impreza WRX,24.33,18.33
+Subaru,Justy,31.2,26.4
+Subaru,Legacy,34.37,24.84
+Subaru,Loyale,27.11,21.44
+Subaru,Outback,31.6,24.0
+Subaru,SVX,22.43,15.0
+Subaru,Tribeca,21.0,16.0
+Subaru,WRX,25.04,18.65
+Subaru,XT,26.0,18.67
+Subaru,XV Crosstrek,32.57,25.86
+Suzuki,Aerio,27.23,21.61
+Suzuki,Equator,20.48,15.96
+Suzuki,Esteem,30.83,23.93
+Suzuki,Forenza,27.5,19.24
+Suzuki,Grand Vitara,24.28,19.0
+Suzuki,Kizashi,29.63,22.03
+Suzuki,Reno,28.0,19.47
+Suzuki,SX4,30.52,22.91
+Suzuki,Samurai,26.0,24.0
+Suzuki,Sidekick,23.62,20.29
+Suzuki,Swift,35.83,29.67
+Suzuki,Verona,25.0,17.44
+Suzuki,Vitara,22.44,19.25
+Suzuki,X-90,26.0,22.0
+Suzuki,XL-7,20.45,15.45
+Suzuki,XL7,22.08,15.97
+Tesla,Model S,98.94,94.11
+Toyota,4Runner,21.65,17.0
+Toyota,86,30.0,22.5
+Toyota,Avalon,30.67,21.0
+Toyota,Avalon Hybrid,39.0,40.0
+Toyota,Camry,33.54,23.85
+Toyota,Camry Hybrid,38.0,40.89
+Toyota,Camry Solara,28.47,19.5
+Toyota,Celica,30.12,22.56
+Toyota,Corolla,37.62,28.76
+Toyota,Corolla iM,35.5,27.5
+Toyota,Cressida,22.0,17.0
+Toyota,ECHO,37.0,29.0
+Toyota,FJ Cruiser,19.33,16.11
+Toyota,Highlander,24.55,18.64
+Toyota,Highlander Hybrid,28.0,27.0
+Toyota,Land Cruiser,18.0,13.0
+Toyota,MR2,25.5,18.5
+Toyota,MR2 Spyder,29.5,22.83
+Toyota,Matrix,29.4,22.6
+Toyota,Paseo,32.75,25.5
+Toyota,Pickup,20.0,15.92
+Toyota,Previa,19.57,15.36
+Toyota,Prius,49.67,53.44
+Toyota,Prius Prime,53.0,55.0
+Toyota,Prius c,46.0,53.0
+Toyota,Prius v,39.67,43.67
+Toyota,RAV4,29.5,22.79
+Toyota,RAV4 EV,74.0,78.0
+Toyota,RAV4 Hybrid,30.4,34.0
+Toyota,Sequoia,17.0,13.0
+Toyota,Sienna,24.98,17.84
+Toyota,Supra,22.0,15.83
+Toyota,T100,19.2,15.47
+Toyota,Tacoma,22.44,18.07
+Toyota,Tercel,35.14,27.71
+Toyota,Tundra,17.69,13.35
+Toyota,Venza,25.7,19.15
+Toyota,Yaris,35.95,30.0
+Toyota,Yaris iA,39.5,31.0
+Volkswagen,Beetle,33.61,25.26
+Volkswagen,Beetle Convertible,33.23,24.79
+Volkswagen,CC,30.47,21.07
+Volkswagen,Cabrio,27.36,20.57
+Volkswagen,Cabriolet,28.33,21.67
+Volkswagen,Corrado,23.5,16.5
+Volkswagen,Eos,30.0,22.0
+Volkswagen,EuroVan,18.0,15.0
+Volkswagen,Fox,29.67,22.0
+Volkswagen,GLI,31.3,22.3
+Volkswagen,GTI,32.0,22.5
+Volkswagen,Golf,37.93,26.22
+Volkswagen,Golf Alltrack,30.0,22.0
+Volkswagen,Golf GTI,33.4,24.8
+Volkswagen,Golf R,30.4,22.6
+Volkswagen,Golf SportWagen,37.37,26.89
+Volkswagen,Jetta,37.72,26.83
+Volkswagen,Jetta GLI,32.5,23.23
+Volkswagen,Jetta Hybrid,48.0,42.0
+Volkswagen,Jetta SportWagen,36.8,27.1
+Volkswagen,New Beetle,28.38,20.0
+Volkswagen,Passat,35.86,24.34
+Volkswagen,Phaeton,18.82,12.36
+Volkswagen,R32,23.5,17.5
+Volkswagen,Rabbit,28.73,20.27
+Volkswagen,Routan,24.62,16.81
+Volkswagen,Tiguan,25.38,20.35
+Volkswagen,Touareg,25.06,18.33
+Volkswagen,Touareg 2,20.0,14.17
+Volkswagen,Vanagon,16.75,15.25
+Volvo,240,25.43,18.71
+Volvo,740,23.77,18.0
+Volvo,760,19.67,15.67
+Volvo,780,19.5,15.5
+Volvo,850,24.6,17.4
+Volvo,940,23.17,17.0
+Volvo,960,23.67,15.67
+Volvo,C30,29.0,21.0
+Volvo,C70,28.0,18.67
+Volvo,Coupe,20.0,17.0
+Volvo,S40,28.88,20.12
+Volvo,S60,32.14,22.14
+Volvo,S60 Cross Country,30.0,22.0
+Volvo,S70,24.69,17.54
+Volvo,S80,32.5,22.25
+Volvo,S90,30.6,21.2
+Volvo,V40,27.0,19.0
+Volvo,V50,28.83,20.17
+Volvo,V60,30.67,21.86
+Volvo,V60 Cross Country,28.67,20.67
+Volvo,V70,25.75,17.0
+Volvo,V90,23.0,16.0
+Volvo,XC,23.0,17.0
+Volvo,XC60,27.13,19.87
+Volvo,XC70,27.5,20.17
+Volvo,XC90,25.29,20.47
